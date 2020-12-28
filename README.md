@@ -1,1 +1,1 @@
-# FolderStructure
+# ProjectTemplate
